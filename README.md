@@ -16,9 +16,9 @@ import system.model.*;
 
 Make use you include the ant-dbo.jar in your classpath or reference libraries if your using eclipses as your Editor.
 
-SAMPLE CODES:
+SAMPLE CODES
 
-"import system.model.*;
+;import system.model.*;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
@@ -55,7 +55,7 @@ public class SampleCode {
 	e.printStackTrace();
      }
   }
-}"
+}
 
 DEPENDENCIES:
 import java.sql.*;
