@@ -12,20 +12,20 @@ Can do:
 5. Easy to use 
 
 USAGE:
-import system.model.*;
+```import system.model.*;```
 
 Make use you include the ant-dbo.jar in your classpath or reference libraries if your using eclipses as your Editor.
 
 SAMPLE CODES
 
-'''import system.model.*;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.HashMap;
-import java.util.Map;
+  ```  import system.model.*;
+    import java.sql.ResultSet;
+    import java.sql.SQLException;
+    import java.util.HashMap;
+    import java.util.Map;
 
-public class SampleCode {
-   public static void main(String[] args){
+    public class SampleCode {
+     public static void main(String[] args){
      Map<String, String> clause = new HashMap<String, String>();
      Map<String, String> clause2 = new HashMap<String, String>();
      HashMap<String, String> clause3 = new HashMap<String, String>();
@@ -54,8 +54,8 @@ public class SampleCode {
 	// TODO Auto-generated catch block
 	e.printStackTrace();
      }
-  }
-}'''
+    }
+  }```
 
 DEPENDENCIES:
-'''import java.sql.*;'''
+```import java.sql.*;```
