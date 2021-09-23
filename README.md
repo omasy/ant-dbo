@@ -18,7 +18,7 @@ Make use you include the ant-dbo.jar in your classpath or reference libraries if
 
 SAMPLE CODES
 
-;import system.model.*;
+'''import system.model.*;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
@@ -55,7 +55,7 @@ public class SampleCode {
 	e.printStackTrace();
      }
   }
-}
+}'''
 
 DEPENDENCIES:
-import java.sql.*;
+'''import java.sql.*;'''
