@@ -1,7 +1,7 @@
 # ant-dbo
 Antware Database Connection Object (Ant DBO) build on top of JDBC and MySQL
 
-SPECIFICATION:
+#### SPECIFICATION:
 Ant DBO is a repo utility project with classes that extends and implement JDBC; java.sql, meant to manipulate MySQL Database.
 
 Can do:
@@ -11,23 +11,22 @@ Can do:
 4. Deletes database records from database table
 5. Easy to use 
 
-USAGE:
+##### USAGE:
 ```import system.model.*;```
 
 Make use you include the ant-dbo.jar in your classpath or reference libraries if your using eclipses as your Editor.
 
-DEPENDENCIES:
+##### DEPENDENCIES:
 ```import java.sql.*;```
 
-SAMPLE CODES
+##### SAMPLE CODES:
 
-```import system.model.*;
+```
+import system.model.*;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
 import java.util.Map;
-
-import system.model.*;
 
 public class SampleCode {
   public static void main(String[] args){
