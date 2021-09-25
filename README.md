@@ -17,7 +17,7 @@ Can do:
 Make use you include the ant-dbo.jar in your classpath or reference libraries if your using eclipses as your Editor.
 
 ##### DEPENDENCIES:
-```import java.sql.*;```
+```mysql-connector-java-5.1.8```
 
 ##### SAMPLE CODES:
 
