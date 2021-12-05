@@ -1,5 +1,5 @@
 # ant-dbo
-Antware Database Connection Object (Ant DBO) build on top of JDBC and MySQL
+Antware Java Database Connection Object (Ant DBO) build on top of JDBC and MySQL
 
 #### SPECIFICATION:
 Ant DBO is a repo utility project with classes that extends and implement JDBC; java.sql, meant to manipulate MySQL Database.
